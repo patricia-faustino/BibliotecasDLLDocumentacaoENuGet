@@ -1,0 +1,10 @@
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
