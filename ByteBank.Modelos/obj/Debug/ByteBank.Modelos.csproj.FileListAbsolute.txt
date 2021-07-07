@@ -4,3 +4,9 @@ C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c440
 C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
 C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
 C:\src\ByteBankDLL\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\src\ByteBankDLL\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\src\ByteBankDLL\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\src\ByteBankDLL\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\src\ByteBankDLL\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\src\ByteBankDLL\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\src\ByteBankDLL\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
