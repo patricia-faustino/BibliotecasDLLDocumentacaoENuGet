@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Modelos
 {
+
+
     class ClasseTeste
     {
         public ClasseTeste()
