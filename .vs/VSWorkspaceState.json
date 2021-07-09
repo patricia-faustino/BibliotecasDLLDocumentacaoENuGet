@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\ByteBank.Modelos",
+    "\\ByteBank.Modelos\\Funcionarios",
     "\\ByteBank.SistemaAgencia",
     "\\ByteBank.SistemaAgencia\\Properties"
   ],

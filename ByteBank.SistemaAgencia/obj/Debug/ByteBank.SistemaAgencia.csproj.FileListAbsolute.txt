@@ -12,3 +12,10 @@ C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAg
 C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
 C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
 C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\src\ByteBankDLL\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
